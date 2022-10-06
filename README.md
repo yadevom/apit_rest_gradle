@@ -29,8 +29,8 @@ http://localhost:8080/swagger-ui.html
 
 ```
 {
-  "name": "Hulk",
-  "lastName": "Dr. Banner",
+  "name": "Jose",
+  "lastName": "Ortiz",
   "age": 29
 }
 ```
